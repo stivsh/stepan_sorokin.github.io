@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 lang        : "ru"
 title: Сорокин Степан Александрович.
-show_downloads: "false"
-logo        :
-description : Your awesome site
+logo        : /me.jpg
 author      : Desired Persona
-email       : your-email@domain.com
-url         : ""
+email       : stivsh@gmail.com
