@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: [Сорокин Степан Александрович.]
-show_downloads: ["false"]
+lang        : "ru"
+title: Сорокин Степан Александрович.
+show_downloads: "false"
+logo        :
+description : Your awesome site
+author      : Desired Persona
+email       : your-email@domain.com
+url         : ""
