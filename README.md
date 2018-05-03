@@ -42,17 +42,18 @@
 
 ## Самообразование: Coursera, Udacity, Udemy. Edx.
 Сертификаты об окончании курсов:
+* Text Retrieval and Search Engines. University of Illinois at Urbana-Champaign
 * Heterogeneous Parallel Programming. University of Illinois at Urbana-Champaign;
 * Cryptography. University of Maryland, College Park;
 * R Programming. Johns Hopkins University;
-
 * Game Theory. Stanford University;
+* Probability and Statistics. Stanford;
 * DeepLearning specialithation by Andrew Ag;
-* Neural Networks and Deep Learning;
-* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization;
-* Structuring Machine Learning Projects;
-* Convolutional Neural Networks;
-* Sequence Models;
+  * Neural Networks and Deep Learning;
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization;
+  * Structuring Machine Learning Projects;
+  * Convolutional Neural Networks;
+  * Sequence Models;
 
 * Cryptography I. Stanford University;
 
