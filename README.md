@@ -60,5 +60,8 @@
 * Machine Learning. Stanford University;
 
 * Udemy TensorFlow: The Road to TensorFlow;
-* Udemy Deep Reinforcement Learning.
+* Udemy Deep Reinforcement Learning;
+* Udacity: Artificial Intelligence for Robotics;
+* Udacity: Artificial Intelligence.
+<br>
 Не вошли курсы и соревнования от DataCamp, HackRank и т.д. не имеющие подтверждённых сертификатов.
