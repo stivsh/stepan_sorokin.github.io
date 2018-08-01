@@ -10,8 +10,8 @@
 * Английский - читаю, пишу, регулярно читаю статьи DeepMind, OPenAI и т.д., новостные ленты Medium. 
 
 ### Практические навыки.
-* Python, C++, C;
-* NumPy, Pandas, SymPy, Scikit-learn;
+* Python, Scala, C++, C;
+* NumPy, Pandas, SymPy, Scikit-learn, Spark;
 * Keras, TensorFlow;
 * MS SQL, MySql, MongoDB.
 
@@ -25,6 +25,7 @@
 качества наличных, оборудование поставляется на монетные дворы России.
 * Разработка систем фильтрации трафика.
 Анализ, классификация содержимого страниц, DFA-NFA автоматы для поиска содержимого.
+* [Я на HackerRank](https://www.hackerrank.com/stivsh)
 
 ## Примеры работ.
 * [Прошивка для робота с простой навигацией, и GUI для него, робот управляется по Bluetooth, в GUI выглядит как космический корабль, препятствия отрисовываются как метеоры. C++, Python, PyGame.](https://github.com/stivsh/DiffRobot)
