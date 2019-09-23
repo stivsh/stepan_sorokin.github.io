@@ -10,10 +10,12 @@
 * Английский - читаю, пишу, регулярно читаю статьи DeepMind, OPenAI и т.д., новостные ленты Medium. 
 
 ### Практические навыки.
+Сейчас пишу бэк на Python + Flask;
+#### Работал с(Утерянный опыт):
 * Python, Scala, C++, C;
 * NumPy, Pandas, SymPy, Scikit-learn, Spark;
 * Keras, TensorFlow;
-* MS SQL, MySql, MongoDB.
+* MS SQL, PostgreSQL.
 
 ## Опыт работы.
 
@@ -28,6 +30,7 @@
 * На данный Момент работаю в госкорпорации аэронавигации.
 Аэронавигация воздушного транспорта.
 * [Я на HackerRank](https://www.hackerrank.com/stivsh)
+* C Ноября 2018 работаю Разработчиком в Яндекс.
 
 ## Примеры работ.
 * [Прошивка для робота с простой навигацией, и GUI для него, робот управляется по Bluetooth, в GUI выглядит как космический корабль, препятствия отрисовываются как метеоры. C++, Python, PyGame.](https://github.com/stivsh/DiffRobot)
@@ -44,23 +47,24 @@
 Машины Комплексы Системы Сети.
 
 ## Самообразование: Coursera, Udacity, Udemy. Edx.
-Сертификаты об окончании курсов:
-* Text Retrieval and Search Engines. University of Illinois at Urbana-Champaign
-* Heterogeneous Parallel Programming. University of Illinois at Urbana-Champaign;
-* Cryptography. University of Maryland, College Park;
-* R Programming. Johns Hopkins University;
-* Game Theory. Stanford University;
+* Distributed Database Systems(Coursera);
+* Core Database Concepts(Coursera);
+* Text Retrieval and Search Engines. University of Illinois at Urbana-Champaign(Coursera);
+* Heterogeneous Parallel Programming. University of Illinois at Urbana-Champaign(Coursera);
+* Cryptography. University of Maryland, College Park(Coursera);
+* R Programming. Johns Hopkins University(Coursera);
+* Game Theory. Stanford University(Coursera);
 * Probability and Statistics. Stanford;
-* DeepLearning specialithation by Andrew Ag;
+* DeepLearning specialithation by Andrew Ag(Coursera);
   * Neural Networks and Deep Learning;
   * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization;
   * Structuring Machine Learning Projects;
   * Convolutional Neural Networks;
   * Sequence Models;
 
-* Cryptography I. Stanford University;
+* Cryptography I. Stanford University(Coursera);
 
-* Machine Learning. Stanford University;
+* Machine Learning. Stanford University(Coursera);
 
 * Udemy TensorFlow: The Road to TensorFlow;
 * Udemy Deep Reinforcement Learning;
